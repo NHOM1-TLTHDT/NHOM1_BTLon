@@ -1,0 +1,8 @@
+Hợp Đồng:
+Mã Hợp Đồng: 4
+Tên Khách Hàng: 4
+Địa Chỉ: 4
+Ngày Bắt Đầu: 09/12/2024
+Ngày Kết Thúc: 09/03/2025
+Tiền Nhà mỗi tháng: 100.000.000
+Tổng Tiền: 300.000.000
